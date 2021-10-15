@@ -1,0 +1,22 @@
+body {
+  background: #E9E6E6;
+  margin: 0;
+  padding: 0;
+  color: #566885;
+  font-family: Arial;
+}
+
+.App {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #E9E6E6;
+}
+
+#root {
+  width: 100%;
+}
+
+/*# sourceMappingURL=app.css.map */

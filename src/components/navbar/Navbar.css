@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  background: #ffffff;
+  width: 100%;
+}
+.navbar__header {
+  margin-left: 10px;
+  font-size: 24px;
+  font-weight: 800;
+}
+.navbar__login {
+  margin-left: auto;
+}
+
+.container {
+  width: 1140px;
+  display: flex;
+  align-items: center;
+}
+
+/*# sourceMappingURL=Navbar.css.map */

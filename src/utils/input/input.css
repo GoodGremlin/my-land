@@ -1,0 +1,12 @@
+.base-input {
+  width: 400px;
+  padding: 16px;
+  border: none;
+  border-bottom: 3px solid #566885;
+  color: #566885;
+  outline: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=input.css.map */
